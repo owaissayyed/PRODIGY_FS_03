@@ -21,3 +21,4 @@ userRouter.get('/user-details',auth,userDetails)
 
 
 export default userRouter
+

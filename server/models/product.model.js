@@ -65,3 +65,4 @@ productSchema.index({
 const ProductModel = mongoose.model('product',productSchema)
 
 export default ProductModel
+

@@ -194,3 +194,6 @@ const UploadSubCategoryModel = ({close, fetchData}) => {
 }
 
 export default UploadSubCategoryModel
+
+
+

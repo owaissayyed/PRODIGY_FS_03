@@ -22,3 +22,5 @@ const CofirmBox = ({cancel,confirm,close}) => {
 }
 
 export default CofirmBox
+
+

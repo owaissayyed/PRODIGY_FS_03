@@ -27,3 +27,4 @@ const productSlice = createSlice({
 export const  { setAllCategory,setAllSubCategory,setLoadingCategory } = productSlice.actions
 
 export default productSlice.reducer
+

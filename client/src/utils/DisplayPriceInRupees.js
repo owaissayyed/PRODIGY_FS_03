@@ -4,3 +4,5 @@ export const DisplayPriceInRupees = (price)=>{
         currency : 'INR'
     }).format(price)
 }
+
+

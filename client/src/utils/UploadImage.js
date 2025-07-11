@@ -18,3 +18,5 @@ const uploadImage = async(image)=>{
 }
 
 export default uploadImage
+
+

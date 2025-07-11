@@ -130,3 +130,6 @@ const UploadCategoryModel = ({close, fetchData}) => {
 }
 
 export default UploadCategoryModel
+
+
+

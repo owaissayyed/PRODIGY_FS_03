@@ -54,3 +54,5 @@ const DisplayTable = ({ data, column }) => {
 }
 
 export default DisplayTable
+
+

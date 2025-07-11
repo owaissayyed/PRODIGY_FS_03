@@ -13,3 +13,6 @@ const fetchUserDetails = async()=>{
 }
 
 export default fetchUserDetails
+
+
+

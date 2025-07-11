@@ -129,3 +129,5 @@ const DisplayCartItem = ({close}) => {
 }
 
 export default DisplayCartItem
+
+

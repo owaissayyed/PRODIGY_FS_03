@@ -8,3 +8,4 @@ const uploadRouter = Router()
 uploadRouter.post("/upload",auth,upload.single("image"),uploadImageController)
 
 export default uploadRouter
+
